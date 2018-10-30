@@ -1,4 +1,4 @@
-# [Alyona](https://github.com/startonmonday)
+# Alyona (https://github.com/startonmonday)
 
 
 ## About me:
